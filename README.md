@@ -14,23 +14,23 @@ The dataset used in this study is Creditcard_data.csv. The results of the sampli
 
 ## Sampling Techniques
 
-### 1. Simple Random Sampling:
+#### 1. Simple Random Sampling:
 Employs randomization to ensure each population member has an equal probability of selection, guaranteeing unbiased representation.
 
 
-### 2. Systematic Sampling:
+#### 2. Systematic Sampling:
 Involves selecting elements at predetermined intervals, offering efficiency while requiring careful interval selection to avoid periodicity biases.
 
 
-### 3. Cluster Sampling:
+#### 3. Cluster Sampling:
 Divides the population into naturally occurring groups (clusters) and randomly selects clusters, providing cost-effectiveness but potentially introducing cluster-level biases.
 
 
-### 4. Stratified Sampling:
+#### 4. Stratified Sampling:
 Segments the population by relevant characteristics (strata) and randomly selects elements within each stratum, ensuring proportional representation for key subgroups.
 
 
-### 5. Bootstrap Sampling:
+#### 5. Bootstrap Sampling:
 Relies on resampling with replacement from the original data, generating pseudo-populations to robustly estimate sampling distributions and variances.
 
 
