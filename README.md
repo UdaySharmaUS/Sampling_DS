@@ -1,4 +1,4 @@
-#Sampling_comparision
+# Sampling_comparision
 
 ## Introduction to Sampling
 
@@ -14,15 +14,21 @@ The dataset used in this study is Creditcard_data.csv. The results of the sampli
 
 ## Sampling Techniques
 
-### Simple Random Sampling: Employs randomization to ensure each population member has an equal probability of selection, guaranteeing unbiased representation.
+### Simple Random Sampling:
+Employs randomization to ensure each population member has an equal probability of selection, guaranteeing unbiased representation.
 
-### Systematic Sampling: Involves selecting elements at predetermined intervals, offering efficiency while requiring careful interval selection to avoid periodicity biases.
+### Systematic Sampling:
+Involves selecting elements at predetermined intervals, offering efficiency while requiring careful interval selection to avoid periodicity biases.
 
-### Cluster Sampling: Divides the population into naturally occurring groups (clusters) and randomly selects clusters, providing cost-effectiveness but potentially introducing cluster-level biases.
+### Cluster Sampling:
+Divides the population into naturally occurring groups (clusters) and randomly selects clusters, providing cost-effectiveness but potentially introducing cluster-level biases.
 
-### Stratified Sampling: Segments the population by relevant characteristics (strata) and randomly selects elements within each stratum, ensuring proportional representation for key subgroups.
+### Stratified Sampling:
+Segments the population by relevant characteristics (strata) and randomly selects elements within each stratum, ensuring proportional representation for key subgroups.
 
-### Bootstrap Sampling: Relies on resampling with replacement from the original data, generating pseudo-populations to robustly estimate sampling distributions and variances.
+### Bootstrap Sampling:
+Relies on resampling with replacement from the original data, generating pseudo-populations to robustly estimate sampling distributions and variances.
+
 
 ## Models
 
@@ -45,22 +51,5 @@ In the table above, each row corresponds to a sampling technique, and each colum
 
 The following flowchart is a brief overview of the sampling process:
 
-Start
-|
-v
-Define the population
-|
-v
-Define the sampling technique
-|
-v
-Sample the population
-|
-v
-Apply machine learning models
-|
-v
-Evaluate results
-|
-v
-End
+![image](https://github.com/UdaySharmaUS/Sampling_DS/assets/110687732/c434ff66-f8de-4d8a-a7a9-9a517704831a)
+
